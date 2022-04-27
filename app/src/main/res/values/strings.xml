@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TASK2_POE</string>
+    <string name="displayName">Collect It</string>
+    <string name="GetStarted">Get Started</string>
+    <string name="Reg">Register</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="UName">Name</string>
+    <string name="Email">Email</string>
+    <string name="Pass">Password</string>
+    <string name="CPass">Confirm Password</string>
+    <string name="btnReg">Register</string>
+    <string name="btnLog1">Log In</string>
+    <string name="txtAlready">Already registered?</string>
+    <string name="Log">Login</string>
+    <string name="NoAcc">Not registered?</string>
+    <string name="Login_btnLog">Login</string>
+    <string name="Login_btnReg">Register</string>
+
+
+</resources>

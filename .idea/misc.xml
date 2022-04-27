@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/DISD3/OPSC7311/OPSC POE/Task2_POE/app/src/main/res/drawable/button.xml" value="0.2375" />
+        <entry key="..\:/DISD3/OPSC7311/OPSC POE/Task2_POE/app/src/main/res/drawable/selector.xml" value="0.2165" />
+        <entry key="..\:/DISD3/OPSC7311/OPSC POE/Task2_POE/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.1753681392235609" />
+        <entry key="..\:/DISD3/OPSC7311/OPSC POE/Task2_POE/app/src/main/res/layout-w936dp/activity_login.xml" value="0.20150273224043716" />
+        <entry key="..\:/DISD3/OPSC7311/OPSC POE/Task2_POE/app/src/main/res/layout/activity_all_collections.xml" value="0.27291666666666664" />
+        <entry key="..\:/DISD3/OPSC7311/OPSC POE/Task2_POE/app/src/main/res/layout/activity_boards.xml" value="0.24909420289855072" />
+        <entry key="..\:/DISD3/OPSC7311/OPSC POE/Task2_POE/app/src/main/res/layout/activity_login.xml" value="0.26721014492753625" />
+        <entry key="..\:/DISD3/OPSC7311/OPSC POE/Task2_POE/app/src/main/res/layout/activity_main.xml" value="0.26721014492753625" />
+        <entry key="..\:/DISD3/OPSC7311/OPSC POE/Task2_POE/app/src/main/res/layout/activity_register.xml" value="0.25" />
+        <entry key="..\:/DISD3/OPSC7311/OPSC POE/Task2_POE/app/src/main/res/layout/activity_splash.xml" value="0.26721014492753625" />
+        <entry key="..\:/DISD3/OPSC7311/OPSC POE/Task2_POE/app/src/main/res/menu/menu_nav.xml" value="0.27291666666666664" />
+        <entry key="..\:/DISD3/OPSC7311/Task2_POE/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/DISD3/OPSC7311/Task2_POE/app/src/main/res/layout/activity_register.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
