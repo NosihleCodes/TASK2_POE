@@ -10,6 +10,18 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.TASK2_POE">
         <activity
+            android:name=".Item_Target"
+            android:exported="false" />
+        <activity
+            android:name=".CollectionGoal"
+            android:exported="false" />
+        <activity
+            android:name=".AddEditItems"
+            android:exported="false" />
+        <activity
+            android:name=".Profile"
+            android:exported="false" />
+        <activity
             android:name=".Boards"
             android:exported="false" />
         <activity

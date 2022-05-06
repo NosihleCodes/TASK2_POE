@@ -29,59 +29,71 @@
             android:layout_gravity="center"
             android:layout_marginTop="20dp"
             android:textSize="30dp"/>
+
         <EditText
             android:id="@+id/et_Name"
             android:layout_width="300dp"
             android:layout_height="wrap_content"
-            android:inputType="textPersonName"
-            android:hint="first name"
             android:layout_gravity="center"
+            android:layout_marginTop="35dp"
             android:drawableLeft="@drawable/ic_baseline_person"
             android:drawablePadding="10dp"
-            android:layout_marginTop="35dp"
-            android:padding="20dp"/>
+            android:hint="first name"
+            android:inputType="textPersonName"
+            android:padding="20dp"
+            android:textSize="16sp" />
+
         <EditText
             android:id="@+id/et_emailReg"
             android:layout_width="300dp"
             android:layout_height="wrap_content"
-            android:inputType="textEmailAddress"
-            android:hint="email address"
             android:layout_gravity="center"
+            android:layout_marginTop="35dp"
             android:drawableLeft="@drawable/ic_baseline_person"
             android:drawablePadding="10dp"
-            android:layout_marginTop="35dp"
-            android:padding="20dp"/>
+            android:hint="email address"
+            android:inputType="textEmailAddress"
+            android:padding="20dp"
+            android:textSize="16sp" />
+
         <EditText
             android:id="@+id/et_PassReg"
             android:layout_width="300dp"
             android:layout_height="wrap_content"
-            android:inputType="textPassword"
-            android:hint="password"
             android:layout_gravity="center"
+            android:layout_marginTop="35dp"
             android:drawableLeft="@drawable/ic_baseline_lock"
             android:drawablePadding="10dp"
-            android:layout_marginTop="35dp"
-            android:padding="20dp"/>
+            android:hint="password"
+            android:inputType="textPassword"
+            android:padding="20dp"
+            android:textSize="16sp" />
+
         <EditText
             android:id="@+id/et_Confirm"
             android:layout_width="300dp"
             android:layout_height="wrap_content"
-            android:inputType="textPassword"
-            android:hint="confirm password"
             android:layout_gravity="center"
+            android:layout_marginTop="35dp"
             android:drawableLeft="@drawable/ic_baseline_lock"
             android:drawablePadding="10dp"
-            android:layout_marginTop="35dp"
-            android:padding="20dp"/>
+            android:hint="confirm password"
+            android:inputType="textPassword"
+            android:padding="20dp"
+            android:textSize="16sp" />
+
         <Button
             android:id="@+id/btnRegister"
             android:layout_width="300dp"
             android:layout_height="60dp"
             android:layout_gravity="center"
-            android:text="Register"
-            android:textColor="#ffffff"
             android:layout_marginTop="20dp"
-            android:background="@drawable/button"/>
+            android:background="@drawable/button"
+            android:gravity="center"
+            android:text="Register"
+            android:textAlignment="center"
+            android:textColor="#ffffff"
+            android:textSize="24sp" />
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -92,17 +104,20 @@
             android:layout_marginTop="30dp"
             android:textSize="15dp"
             android:layout_marginLeft="-70dp"/>
+
         <Button
             android:id="@+id/altLog"
             android:layout_width="100dp"
             android:layout_height="30dp"
             android:layout_gravity="center"
-            android:text="Log on"
-            android:textSize="10dp"
-            android:textColor="#ffffff"
             android:layout_marginTop="-25dp"
+            android:layout_marginRight="-60dp"
             android:background="@drawable/button"
-            android:layout_marginRight="-60dp"/>
+            android:gravity="center"
+            android:text="Log in"
+            android:textAlignment="center"
+            android:textColor="#ffffff"
+            android:textSize="15sp" />
 </LinearLayout>
 
 </ScrollView>
